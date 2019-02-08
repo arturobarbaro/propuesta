@@ -343,6 +343,87 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Añadir un tipo de actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir una actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Borrar un tipo de actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un tipo de actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar un tipo de actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un tipo de actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Registrarse como usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Registrarse como usuario en la aplicación.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Iniciar sesión como un usuario en la aplicación.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Cerrar sesión de usuario en la aplicación.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Modificar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Editar un perfil de usuario.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Buscar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar a otros usuarios.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Visualizar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Mínimo             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +467,12 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 |
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 |
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
+| (**R39**) Añadir un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
+| (**R40**) Borrar un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
+| (**R41**) Modificar un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
+| (**R42**) Registrarse como usuario | Mínimo | Técnico | Fácil | v1 |
+| (**R43**) Iniciar sesión | Mínimo | Técnico | Fácil | v1 |
+| (**R44**) Cerrar sesión | Mínimo | Técnico | Fácil | v1 |
+| (**R45**) Modificar usuario | Mínimo | Técnico | Fácil | v1 |
+| (**R46**) Buscar usuarios | Mínimo | Técnico | Fácil | v1 |
+| (**R47**) Visualizar usuarios | Mínimo | Técnico | Fácil | v1 |
