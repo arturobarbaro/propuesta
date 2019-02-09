@@ -36,4 +36,3 @@ Amazon S3 o Amazon Simple Storage Service, como servicio de almacenamiento y pro
 
 Uso de la tecnología Google Maps para añadir una ruta a cada entrenamiento.
 
-Posible implementación de diferenciación de usuarios por roles (Control de Acceso Basado en Roles).
