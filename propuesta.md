@@ -14,9 +14,9 @@ MyFit calculará el gasto calórico de cada usuario en función de sus datos per
 ## Funcionalidad principal de la aplicación
 
 Esta aplicación tendrá como objetivo registrar las actividades físicas de cada usuario, que pueden ser compartidas y visibles para otros usarios o no.
-Cada usuario podrá así realizar un seguimiento de su actividad física y de la su red de contactos. 
+Cada usuario podrá así realizar un seguimiento de su propia actividad física y podrá tener la posibilidad de ver un seguimiento de otros usuarios. 
 
-MyFit además podrá informar de actividades futuras de un usuario seguido, creando así una comunidad fitness.
+MyFit además podrá informar de actividades futuras de un usuario seguido, creando así un evento.
 Cada usuario podrá anotar comentarios junto a la actividad física realizada, está almacenará así el tipo de actividad (como puede ser correr, nadar o un entrenamiento de fuerza), la fecha de inicio de la actividad junto a su fecha de fin o su duración, la distancia, el gasto calórico de cada usuario y anotaciones del propio usuario (observaciones, sensaciones, anécdotas, etc). 
 
 De cara al exterior otros usarios podrán dar "like" y dejar comentarios asociados a esta actividad.

@@ -347,7 +347,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Añadir una actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -356,7 +356,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar un tipo de actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -365,7 +365,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Modificar un tipo de actividad, deberá cumplir las reglas SQL escritas en la base de datos.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -374,7 +374,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Registrarse como usuario en la aplicación.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -383,7 +383,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Iniciar sesión como un usuario en la aplicación.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -392,7 +392,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Cerrar sesión de usuario en la aplicación.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -401,7 +401,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Editar un perfil de usuario.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -410,7 +410,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Buscar a otros usuarios.             |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -419,7 +419,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver el perfil público de un usuario             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -428,7 +428,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Añadir un entrenamiento. Estará compuesto por un tipo de actividad, una fecha y una duración obligatoriamente.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -437,7 +437,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar un entrenamiento asociado a un usuario.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -446,7 +446,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Modificar un entrenamiento, así como el gasto calórico asociado al usuario.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -455,7 +455,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver los detalles de un entrenamiento, el usuario que lo ha realizado, el número de likes (si se llega a implementar) y los posibles comentarios asociados.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v1             |
 
@@ -464,7 +464,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Mediante Google Maps añadir recorrido de un entrenamiento al aire libre.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -473,7 +473,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Mediante Google Maps ver el recorrido de un entrenamiento al aire libre.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -482,7 +482,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Mediante Google Maps, poder cambiar el recorrido asociado a un entrenamiento. Poder modificar los puntos por los que ha pasado el usuario.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -491,7 +491,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar el recorrido de un entrenamiento al aire libre.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -500,7 +500,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Dar like a un entrenamiento siempre que sea desde un usuario logueado.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -509,7 +509,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar un like a un entrenamiento siempre que sea desde un usuario logueado.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -518,7 +518,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Añadir un comentario asociado a un entrenamiento siempre que sea desde un usuario logueado. A diferencia que los likes un usuario podrá comentar un entrenamiento cero o muchas veces.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -527,7 +527,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar un comentario asociado a un entrenamiento siempre que sea desde un usuario logueado.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -536,7 +536,7 @@
 | --------------: | :------------------- |
 | **Descripción** | En función del tipo de actividad, la duración y los datos personales del usuario, MyFit calculará el gasto calórico de dicha actividad que quedará guardado junto a otros detalles del entrenamiento.              |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -545,7 +545,7 @@
 | --------------: | :------------------- |
 | **Descripción** | En función del tipo de actividad, la duración y los datos personales del usuario. El usuario puede modificar estos valores.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -554,7 +554,7 @@
 | --------------: | :------------------- |
 | **Descripción** | En función del usuario (su metabolismo basal) y el numero de entrenamientos que haya realizado.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -563,7 +563,7 @@
 | --------------: | :------------------- |
 | **Descripción** | MyFit calculará el metabolismo basal (MB), es decir el consumo calórico de cualquier individuo si no realizase ninguna acción en todo el día.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -572,7 +572,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver todos los entrenamientos realizados por un usuario en particular.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -581,7 +581,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Leer comentarios asociados a un entrenamiento             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -590,7 +590,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver un resumen diario de un usuario de una fecha pasada, así como sus entrenamientos realizados y gasto calórico.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -599,7 +599,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Esta será la pagina principal de un usuario logueado. En ella aparecerán las actividades recientes propias y de usuarios de su red.              |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -608,7 +608,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Poder comentar un entrenamiento propio o de un usuario seguido desde la página de inicio.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -617,7 +617,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Dar like a un entrenamiento propio o ajeno desde inicio.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -626,7 +626,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Pinchar sobre un entrenamiento y ver una vista detallada sobre este.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
@@ -635,7 +635,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Pinchar sobre un usuario en inicio y ver los detalles de su perfil.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
@@ -644,7 +644,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Guardando estos archivos en la nube.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -653,7 +653,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar la imagen de avatar asociada a un usuario             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -662,7 +662,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Modificar la imagen de perfil de un usuario.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -671,7 +671,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Cada usuario podrá añadir objetivos personales, como entrenar x veces a la semana o gastar x calorias diarias.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -680,7 +680,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Añadir contenido multimedia asociado a un entrenamiento, como imágenes de un posible recorrido o de las instalaciones y materiales usados.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -689,7 +689,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar contenido multimedia asociado a un entrenamiento.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -698,7 +698,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Notificar al usuario cuando otro le envie una petición de amistad             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
@@ -707,7 +707,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Añadir entrenamientos futuros a la aplicación. Estos serán visibles por usuarios del exterior. La idea es que de esta forma puedan organizar una quedada.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -716,7 +716,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Enviar un email de bienvenida a un usuario que se registre en la aplicación.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
@@ -725,7 +725,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Un usuario registrado no podrá eliminar daros ajenos a el, como entrenamientos ajenos, usuarios o actividades ajenas.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -734,7 +734,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ordenar entrenamientos asociados a un usuario por numero de likes. En sentido ascendiente y descendiente.             |
 | **Prioridad**   | Opcional           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
@@ -743,7 +743,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ordenar entrenamientos asociados a un usuario por duración de la actividad. En sentido ascendiente y descendiente.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -752,7 +752,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ordenar entrenamientos asociados a un usuario por la cantidad de gasto calórco. En sentido ascendiente y descendiente.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -761,7 +761,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ordenar entrenamientos asociados a un usuario por numero de likes. En sentido ascendiente y descendiente.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -770,7 +770,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ordenar entrenamientos asociados a un usuario por numero de likes. En sentido ascendiente y descendiente.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -779,7 +779,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Seguir a un usuario estando logueado.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v2             |
 
@@ -788,7 +788,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Dejar de seguir a un usuario estando logueado             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v2             |
 
@@ -797,7 +797,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ser seguido por otro usuario que esté registrado.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v2             |
 
@@ -806,7 +806,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Dejar de ser seguido por otro usuario.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v2             |
 
@@ -815,7 +815,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver la lista de seguidores de un usuario             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -824,7 +824,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver la lista de seguidos de un usuario.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Medio         |
 | **Entrega**     | v2             |
 
@@ -833,7 +833,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Ver una lista con el tipo de actividades registradas en la aplicación, así como sus detalles.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -842,7 +842,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Eliminar permanentemente una cuenta personal.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -851,7 +851,7 @@
 | --------------: | :------------------- |
 | **Descripción** | Buscar un usuario por nombre de usuario             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -860,7 +860,52 @@
 | --------------: | :------------------- |
 | **Descripción** | Buscar a un usuario por su email             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Técnico                |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R97**     | **Almacenar datos de cada entidad/modelo usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará de cada usuario al menos la siguiente información: id, login, nombre, apellidos, fecha de nacimiento, sexo, peso, estatura, password.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R98**     | **Almacenar datos de cada entidad/modelo seguidores**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos el id, seguidor_id y seguido_id             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R99**     | **Almacenar datos de cada entidad/modelo actividades**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará el id, la actividad y el gasto calórico unitario de la misma.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R100**     | **Almacenar datos de cada entidad/modelo entrenamientos**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos el id, usuario_id, actividad_id, anotacion, fecha y la duración.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R101**     | **Almacenar datos de cada entidad/modelo comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará de cada comentario al menos la siguiente información: id, usuario_id, entrenamiento_id, cuerpo.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
@@ -908,61 +953,66 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 |
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 |
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
-| (**R39**) Añadir un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
-| (**R40**) Borrar un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
-| (**R41**) Modificar un tipo de actividad | Mínimo | Técnico | Fácil | v1 |
-| (**R42**) Registrarse como usuario | Mínimo | Técnico | Fácil | v1 |
-| (**R43**) Iniciar sesión | Mínimo | Técnico | Fácil | v1 |
-| (**R44**) Cerrar sesión | Mínimo | Técnico | Fácil | v1 |
-| (**R45**) Modificar usuario | Mínimo | Técnico | Fácil | v1 |
-| (**R46**) Buscar usuarios | Mínimo | Técnico | Fácil | v1 |
-| (**R47**) Visualizar un usuario | Importante | Técnico | Fácil | v1 |
-| (**R48**) Añadir un entrenamiento | Importante | Técnico | Fácil | v1 |
-| (**R49**) Eliminar un entrenamiento | Importante | Técnico | Fácil | v1 |
-| (**R50**) Modificar un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R51**) Ver un entrenamiento | Importante | Técnico | Difícil | v1 |
-| (**R52**) Añadir una ruta a un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R53**) Ver una ruta a un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R54**) Modificar la ruta de un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R55**) Eliminar la ruta de un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R56**) Dar like a un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R57**) Quitar like a un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R58**) Comentar un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R59**) Descomentar un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R60**) Calcular el gasto calórico de un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R61**) Modificar el gasto calórico de un entrenamiento | Opcional | Técnico | Medio | v2 |
-| (**R62**) Calcular el gasto calórico diario | Opcional | Técnico | Medio | v2 |
-| (**R63**) Calcular el metabolismo basal | Opcional | Técnico | Medio | v2 |
-| (**R64**) Ver entrenamientos asociados a un usuario | Importante | Técnico | Fácil | v1 |
-| (**R65**) Leer comentarios asociados a un entrenamiento | Importante | Técnico | Medio | v2 |
-| (**R66**) Ver un seguimiento diario de cada usuario | Opcional | Técnico | Difícil | v3 |
-| (**R67**) Ver actividades recientes de usuarios seguidos | Importante | Técnico | Medio | v2 |
-| (**R68**) Comentar un entrenamiento desde inicio | Importante | Técnico | Medio | v2 |
-| (**R69**) Dar like a un entrenamiento desde inicio | Importante | Técnico | Medio | v2 |
-| (**R70**) Ver detalle de un entrenamiento desde inicio | Importante | Técnico | Fácil | v2 |
-| (**R71**) Acceder a un usuario desde inicio | Importante | Técnico | Fácil | v2 |
-| (**R72**) Añadir una imagen de perfil a un usuario | Opcional | Técnico | Difícil | v3 |
-| (**R73**) Eliminar imagen de perfil de un usuario | Opcional | Técnico | Difícil | v3 |
-| (**R74**) Modificar el avatar de un usuario | Opcional | Técnico | Difícil | v3 |
-| (**R75**) Añadir objetivos personales | Opcional | Técnico | Difícil | v3 |
-| (**R76**) Añadir contenido multimedia a un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R77**) Eliminar contenido multimedia asociado a un entrenamiento | Opcional | Técnico | Difícil | v3 |
-| (**R78**) Notificar al usuario | Opcional | Técnico | Difícil | v3 |
-| (**R79**) Añadir entrenamientos futuros | Importante | Técnico | Medio | v2 |
-| (**R80**) Mensaje de Bienvenida | Importante | Técnico | Fácil | v2 |
-| (**R81**) Controlar permisos de usuarios | Importante | Técnico | Fácil | v1 |
-| (**R82**) Ordenar entrenamientos asociados a un usuario por numero de likes | Opcional | Técnico | Fácil | v2 |
-| (**R83**) Ordenar entrenamientos asociados a un usuario por duración | Importante | Técnico | Medio | v2 |
-| (**R84**) Ordenar entrenamientos asociados a un usuario por gasto calórico | Importante | Técnico | Medio | v2 |
-| (**R85**) Ordenar entrenamientos asociados a un usuario por fecha | Importante | Técnico | Medio | v2 |
-| (**R86**) Ordenar entrenamientos asociados a un usuario por tipo de actividad | Importante | Técnico | Medio | v2 |
-| (**R87**) Seguir a un usuario | Importante | Técnico | Difícil | v2 |
-| (**R88**) Dejar de seguir a un usuario | Importante | Técnico | Difícil | v2 |
-| (**R89**) Ser seguido por otro usuario | Importante | Técnico | Difícil | v2 |
-| (**R90**) Dejar de ser seguido | Importante | Técnico | Difícil | v2 |
-| (**R91**) Ver seguidores | Importante | Técnico | Medio | v2 |
-| (**R92**) Ver seguidos | Importante | Técnico | Medio | v2 |
-| (**R93**) Ver tipos de actividades | Importante | Técnico | Fácil | v1 |
-| (**R94**) Darse de baja de la aplicación | Importante | Técnico | Fácil | v1 |
-| (**R95**) Buscar un usuario por nombre de usuario | Importante | Técnico | Fácil | v1 |
-| (**R96**) Buscar un usuario por email | Importante | Técnico | Fácil | v1 |
+| (**R39**) Añadir un tipo de actividad | Mínimo | Funcional | Fácil | v1 |
+| (**R40**) Borrar un tipo de actividad | Mínimo | Funcional | Fácil | v1 |
+| (**R41**) Modificar un tipo de actividad | Mínimo | Funcional | Fácil | v1 |
+| (**R42**) Registrarse como usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R43**) Iniciar sesión | Mínimo | Funcional | Fácil | v1 |
+| (**R44**) Cerrar sesión | Mínimo | Funcional | Fácil | v1 |
+| (**R45**) Modificar usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R46**) Buscar usuarios | Mínimo | Funcional | Fácil | v1 |
+| (**R47**) Visualizar un usuario | Importante | Funcional | Fácil | v1 |
+| (**R48**) Añadir un entrenamiento | Importante | Funcional | Fácil | v1 |
+| (**R49**) Eliminar un entrenamiento | Importante | Funcional | Fácil | v1 |
+| (**R50**) Modificar un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R51**) Ver un entrenamiento | Importante | Funcional | Difícil | v1 |
+| (**R52**) Añadir una ruta a un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R53**) Ver una ruta a un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R54**) Modificar la ruta de un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R55**) Eliminar la ruta de un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R56**) Dar like a un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R57**) Quitar like a un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R58**) Comentar un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R59**) Descomentar un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R60**) Calcular el gasto calórico de un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R61**) Modificar el gasto calórico de un entrenamiento | Opcional | Funcional | Medio | v2 |
+| (**R62**) Calcular el gasto calórico diario | Opcional | Funcional | Medio | v2 |
+| (**R63**) Calcular el metabolismo basal | Opcional | Funcional | Medio | v2 |
+| (**R64**) Ver entrenamientos asociados a un usuario | Importante | Funcional | Fácil | v1 |
+| (**R65**) Leer comentarios asociados a un entrenamiento | Importante | Funcional | Medio | v2 |
+| (**R66**) Ver un seguimiento diario de cada usuario | Opcional | Funcional | Difícil | v3 |
+| (**R67**) Ver actividades recientes de usuarios seguidos | Importante | Funcional | Medio | v2 |
+| (**R68**) Comentar un entrenamiento desde inicio | Importante | Funcional | Medio | v2 |
+| (**R69**) Dar like a un entrenamiento desde inicio | Importante | Funcional | Medio | v2 |
+| (**R70**) Ver detalle de un entrenamiento desde inicio | Importante | Funcional | Fácil | v2 |
+| (**R71**) Acceder a un usuario desde inicio | Importante | Funcional | Fácil | v2 |
+| (**R72**) Añadir una imagen de perfil a un usuario | Opcional | Funcional | Difícil | v3 |
+| (**R73**) Eliminar imagen de perfil de un usuario | Opcional | Funcional | Difícil | v3 |
+| (**R74**) Modificar el avatar de un usuario | Opcional | Funcional | Difícil | v3 |
+| (**R75**) Añadir objetivos personales | Opcional | Funcional | Difícil | v3 |
+| (**R76**) Añadir contenido multimedia a un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R77**) Eliminar contenido multimedia asociado a un entrenamiento | Opcional | Funcional | Difícil | v3 |
+| (**R78**) Notificar al usuario | Opcional | Funcional | Difícil | v3 |
+| (**R79**) Añadir entrenamientos futuros | Importante | Funcional | Medio | v2 |
+| (**R80**) Mensaje de Bienvenida | Importante | Funcional | Fácil | v2 |
+| (**R81**) Controlar permisos de usuarios | Importante | Funcional | Fácil | v1 |
+| (**R82**) Ordenar entrenamientos asociados a un usuario por numero de likes | Opcional | Funcional | Fácil | v2 |
+| (**R83**) Ordenar entrenamientos asociados a un usuario por duración | Importante | Funcional | Medio | v2 |
+| (**R84**) Ordenar entrenamientos asociados a un usuario por gasto calórico | Importante | Funcional | Medio | v2 |
+| (**R85**) Ordenar entrenamientos asociados a un usuario por fecha | Importante | Funcional | Medio | v2 |
+| (**R86**) Ordenar entrenamientos asociados a un usuario por tipo de actividad | Importante | Funcional | Medio | v2 |
+| (**R87**) Seguir a un usuario | Importante | Funcional | Difícil | v2 |
+| (**R88**) Dejar de seguir a un usuario | Importante | Funcional | Difícil | v2 |
+| (**R89**) Ser seguido por otro usuario | Importante | Funcional | Difícil | v2 |
+| (**R90**) Dejar de ser seguido | Importante | Funcional | Difícil | v2 |
+| (**R91**) Ver seguidores | Importante | Funcional | Medio | v2 |
+| (**R92**) Ver seguidos | Importante | Funcional | Medio | v2 |
+| (**R93**) Ver tipos de actividades | Importante | Funcional | Fácil | v1 |
+| (**R94**) Darse de baja de la aplicación | Importante | Funcional | Fácil | v1 |
+| (**R95**) Buscar un usuario por nombre de usuario | Importante | Funcional | Fácil | v1 |
+| (**R96**) Buscar un usuario por email | Importante | Funcional | Fácil | v1 |
+| (**R97**) Almacenar datos de cada entidad/modelo usuarios | Importante | Información | Fácil | v1 |
+| (**R98**) Almacenar datos de cada entidad/modelo seguidores | Importante | Información | Fácil | v1 |
+| (**R99**) Almacenar datos de cada entidad/modelo actividades | Importante | Información | Fácil | v1 |
+| (**R100**) Almacenar datos de cada entidad/modelo entrenamientos | Importante | Información | Fácil | v1 |
+| (**R101**) Almacenar datos de cada entidad/modelo comentarios | Importante | Información | Fácil | v1 |
