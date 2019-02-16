@@ -910,6 +910,60 @@
 | **Entrega**     | v1             |
 
 
+| **R102**     | **Crear un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear un evento futuro a el que se puedan unir otros usuarios. Entendemos como evento un plan de entrenamiento propuesto para el futuro en una ubicación y con otras características             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R103**     | **Eliminar un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un evento, lo podrá eliminar el creador.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R104**     | **Modificar un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un evento, poder cambiar datos como la fecha, la ubicación, etc. Solo lo podrá modificar el creador.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R105**     | **Unirse a un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder sumarte a un evento creador por otro usuario             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R106**     | **Abandonar un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Abandonar un evento del cual el usuario haya sido participante             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R107**     | **Almacenar datos de cada entidad/modelo eventos**         |
+| --------------: | :------------------- |
+| **Descripción** | Se almacenará al menos el id, los participantes, el creador y  la actividad.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -1016,3 +1070,9 @@
 | (**R99**) Almacenar datos de cada entidad/modelo actividades | Importante | Información | Fácil | v1 |
 | (**R100**) Almacenar datos de cada entidad/modelo entrenamientos | Importante | Información | Fácil | v1 |
 | (**R101**) Almacenar datos de cada entidad/modelo comentarios | Importante | Información | Fácil | v1 |
+| (**R102**) Crear un evento | Opcional | Funcional | Difícil | v3 |
+| (**R103**) Eliminar un evento | Opcional | Funcional | Difícil | v3 |
+| (**R104**) Modificar un evento | Opcional | Funcional | Difícil | v3 |
+| (**R105**) Unirse a un evento | Opcional | Funcional | Difícil | v3 |
+| (**R106**) Abandonar un evento | Opcional | Funcional | Difícil | v3 |
+| (**R107**) Almacenar datos de cada entidad/modelo eventos | Opcional | Información | Fácil | v3 |
